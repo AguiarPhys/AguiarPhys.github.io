@@ -11,9 +11,9 @@ title                    : "Richard Aguiar"
 title_separator          : "-"
 name                     : &name "Richard Aguiar
 description              : &description "personal description"
-url                      : https://aguiarphys.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aguiarphys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aguiarphys/aguiarphys.github.io/"
+repository               : "aguiarphys/aguiarphys.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Aguiar"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "5th Year Mphys Student"
   location         : "Glasgow, UK"
   employer         :
