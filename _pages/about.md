@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <b>PhD in Atom Optics</b> @ <a href='https://www.gla.ac.uk/schools/physics/research/groups/optics/#'>Optics Group</a>  •  <b>Previously:</b> <a href='https://www.cap.fraunhofer.co.uk/'>Fraunhofer CAP</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kelvin Building</p>
+    <p>University of Glasgow</p>
+    <p>Glasgow, UK G12 8QQ</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my page! :wave:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Phd Student in Atom Optics working in the [Optics Group](https://www.gla.ac.uk/schools/physics/research/groups/optics/) under the supervision of Prof Sonja Franke-Arnold. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We are interested in the study of atom-light interactions with structured light through atomic rubidium vapour to explore applications in high-precision magnetic and inertial sensing. This work 
+
+My research interests include cold atom trapping and sensing, BECs, and atom interferometry.
+
+Previously I completed my Master's degree in Physics with specialisation in Quantum Optics at the University of Strathclyde, where I was advised by Dr Aidan Arnold.
+
+I am currently the Vice-President of the [Glasgow Optical Society](https://opticalsoc.github.io/), and an organising member of the Scottish Conference in Optical Technologies (SCOT). 
+
+Thank you for stopping by!

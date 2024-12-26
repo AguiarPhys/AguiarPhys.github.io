@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses I have taught, and useful resources.  
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# P3 Optics Labs (2023-2024)
 
-Organize your courses by years, topics, or universities, however you like!
+# P3 Lab Project (2023-2024)
